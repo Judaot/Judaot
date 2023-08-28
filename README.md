@@ -12,7 +12,7 @@ Soy un apasionado de aprender y estar al tanto de las últimas tendencias y avan
 
 🤔 Si estás buscando a alguien con habilidades en desarrollo web y un enfoque en la calidad y la experiencia del usuario, estoy seguro de que puedo ser una adición valiosa a tu equipo. No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en un proyecto. 
 
-👯 ¡Espero tener la oportunidad de **trabajar contigo** y ayudarte a alcanzar tus objetivos en el mundo del *desarrollo web!* 🔭
+🤝 ¡Espero tener la oportunidad de **trabajar contigo** y ayudarte a alcanzar tus objetivos en el mundo del *desarrollo web!* 🔭
 <!--
 **Judaot/Judaot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
